@@ -4,4 +4,4 @@ This is adding a commit to the file.
 
 This is checking if I am able to pull and commit files using tortoise git.
 
-I am trying to make changes to branch 1. 
+Both merge conflict and merging have been tackled by this task. The functionality should be learnt. 
